@@ -1,7 +1,7 @@
 # DomAda-FruitDet_dataset
-The dataset is used in the paper "DomAda-FruitDet: Domain-adaptive anchor-free fruit detection model for auto labeling".  
+The dataset is used in the paper "DomAda-FruitDet: Domain-adaptive anchor-free fruit detection model for auto labeling. DOI: 10.34133/plantphenomics.0135".  
 ## Data avaible here:
-https://cowtransfer.com/s/253c0cd3f1cc48
+https://forms.gle/fE1NubrsASrPx5wv6
 
 # The links of comparative experiment models
  
